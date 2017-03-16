@@ -1,0 +1,16 @@
+题目3
+nodejs的作者是谁？ 什么时候发布的？ nodejs和npm的关系是什么？
+答：nodejs的作者是Ryan Dah，发布于2009年5月。NPM全称Node Package Manager，是nodejs的包管理和分发工具。
+
+题目4
+UIExplorer中大量使用了一门叫做flow.js的技术，这是做什么用的？
+答：flow.js是javascript静态类型检查工具，用于检查javascript中的类型错误。
+
+题目5
+UIExplorer进去后菜单中将知识分成了Component（组件）和Api（接口），这两部分的区别是什么？
+答：Component趋向于表现层，API趋向于逻辑处理。
+
+题目6
+RN开发，你最终选择了哪款编辑器来写javascript？  -  WebStorm
+你使用Javascript几年了？  -  0.1
+你的操作系统是？  -  windows7
