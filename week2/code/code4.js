@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { AppRegistry , StyleSheet , View , Text } from 'react-native';
 
-export default class code4 extends Component {
+export default class cod4 extends Component {
   render() {
     return (
       <View style={styles.background}>
